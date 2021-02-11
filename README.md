@@ -1,1 +1,2 @@
-# SNIPER-2d
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
